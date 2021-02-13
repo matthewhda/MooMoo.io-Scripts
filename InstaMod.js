@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name  �𒅒⚔༺INSTA MOD༻⚔𒅒�
-// @version    3.0.0
+// @version    1.6.9
 // @author     Nuro
 // @description EVERYTHING IN THE AUTHOR’S DESCRIPTION!    I MADE THIS MOD FOR ¿BEXTIYAR¿
 // @match        *://moomoo.io/*
